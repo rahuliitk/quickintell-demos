@@ -1,0 +1,42 @@
+[
+  {
+    "name":"QuickSearch",
+    "description":"A fast, semantic search API that indexes documents and returns precise, ranked results with relevancy signals.",
+    "type":"Search",
+    "badge":"API • Hosted",
+    "license":"SaaS",
+    "cta":"#"
+  },
+  {
+    "name":"QuickSummarize",
+    "description":"Generate multi-length summaries for documents, meetings, and long-form content with configurable level-of-detail.",
+    "type":"Summarization",
+    "badge":"API • Web App",
+    "license":"SaaS",
+    "cta":"#"
+  },
+  {
+    "name":"QuickAlerts",
+    "description":"Real-time alerting and monitoring for content changes, anomalies, and important signals across your feeds.",
+    "type":"Alerts",
+    "badge":"Webhook • Stream",
+    "license":"SaaS",
+    "cta":"#"
+  },
+  {
+    "name":"QuickInsights",
+    "description":"Analytical insights and auto-generated reports from your data, designed for business and product teams.",
+    "type":"Analytics",
+    "badge":"Dashboard",
+    "license":"SaaS",
+    "cta":"#"
+  },
+  {
+    "name":"QuickAssist",
+    "description":"Context-aware assistants that connect to your content and help users with tasks, explanations, and workflows.",
+    "type":"Assistant",
+    "badge":"Chat • API",
+    "license":"SaaS",
+    "cta":"#"
+  }
+]
